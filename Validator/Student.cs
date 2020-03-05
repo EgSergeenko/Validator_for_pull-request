@@ -7,6 +7,7 @@ namespace Validator
         public string Name;
         public Guid Id;
         public Task Task;
+        public String Group;
 
         public Student(string name)
         {
